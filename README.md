@@ -9,9 +9,10 @@ Visit [Gracejammer](https://gracejammer.herokuapp.com) to check it out!
 - [Table of Contents](#Table-of-Contents)
 - [Download](#Download)
 - [Team](#Team)
-  - [Zachary Resnick](#Zachary-Resnick)
   - [Joonho Han](#Joonho-Han)
-  - [Elliot Gonzalez](#Elliot-Gonzalez)
+  - [Daphne Lee](#Daphne-Lee)
+  - [Matthew McCarthy](#Matthew-McCarthy)
+  - [Alexander Yi](#Alexander-Yi)
 - [Tech Stack](#Tech-Stack)
 
 ## Download
